@@ -1,2 +1,2 @@
 # projects
-readme huita
+amogus
